@@ -1,0 +1,185 @@
+{
+  "class_names": [
+    "air",
+    "anggur",
+    "apel",
+    "ayam",
+    "bakso",
+    "bakwan",
+    "batagor",
+    "bubur",
+    "burger",
+    "cakwe",
+    "capcay",
+    "crepes",
+    "cumi",
+    "donat",
+    "durian",
+    "es_krim",
+    "fu_yung_hai",
+    "gudeg",
+    "ikan",
+    "jeruk",
+    "kacang",
+    "kebab",
+    "kentang",
+    "kerupuk",
+    "kopi"
+  ],
+  "nutrition_table": {
+    "air": {
+      "kalori": 0,
+      "protein": 0.0,
+      "karbohidrat": 0.0,
+      "lemak": 0.0
+    },
+    "kopi": {
+      "kalori": 2,
+      "protein": 0.3,
+      "karbohidrat": 0.0,
+      "lemak": 0.0
+    },
+    "anggur": {
+      "kalori": 69,
+      "protein": 0.7,
+      "karbohidrat": 18.1,
+      "lemak": 0.2
+    },
+    "apel": {
+      "kalori": 52,
+      "protein": 0.3,
+      "karbohidrat": 13.8,
+      "lemak": 0.2
+    },
+    "durian": {
+      "kalori": 147,
+      "protein": 1.5,
+      "karbohidrat": 27.1,
+      "lemak": 5.3
+    },
+    "jeruk": {
+      "kalori": 47,
+      "protein": 0.9,
+      "karbohidrat": 11.8,
+      "lemak": 0.1
+    },
+    "ayam": {
+      "kalori": 239,
+      "protein": 27.3,
+      "karbohidrat": 0.0,
+      "lemak": 13.6
+    },
+    "cumi": {
+      "kalori": 175,
+      "protein": 18.0,
+      "karbohidrat": 7.8,
+      "lemak": 7.5
+    },
+    "ikan": {
+      "kalori": 196,
+      "protein": 22.0,
+      "karbohidrat": 0.0,
+      "lemak": 11.5
+    },
+    "bakso": {
+      "kalori": 156,
+      "protein": 9.7,
+      "karbohidrat": 10.3,
+      "lemak": 8.2
+    },
+    "bakwan": {
+      "kalori": 218,
+      "protein": 4.8,
+      "karbohidrat": 22.5,
+      "lemak": 12.6
+    },
+    "batagor": {
+      "kalori": 232,
+      "protein": 8.2,
+      "karbohidrat": 23.3,
+      "lemak": 11.9
+    },
+    "bubur": {
+      "kalori": 124,
+      "protein": 9.1,
+      "karbohidrat": 14.4,
+      "lemak": 3.1
+    },
+    "cakwe": {
+      "kalori": 316,
+      "protein": 7.4,
+      "karbohidrat": 38.2,
+      "lemak": 15.3
+    },
+    "capcay": {
+      "kalori": 67,
+      "protein": 3.8,
+      "karbohidrat": 7.6,
+      "lemak": 2.4
+    },
+    "fu_yung_hai": {
+      "kalori": 154,
+      "protein": 8.2,
+      "karbohidrat": 9.1,
+      "lemak": 9.3
+    },
+    "gudeg": {
+      "kalori": 180,
+      "protein": 5.4,
+      "karbohidrat": 22.1,
+      "lemak": 7.9
+    },
+    "kacang": {
+      "kalori": 567,
+      "protein": 25.8,
+      "karbohidrat": 16.1,
+      "lemak": 49.2
+    },
+    "kerupuk": {
+      "kalori": 476,
+      "protein": 1.0,
+      "karbohidrat": 71.0,
+      "lemak": 21.0
+    },
+    "burger": {
+      "kalori": 258,
+      "protein": 13.2,
+      "karbohidrat": 24.1,
+      "lemak": 11.8
+    },
+    "crepes": {
+      "kalori": 193,
+      "protein": 5.9,
+      "karbohidrat": 25.2,
+      "lemak": 7.7
+    },
+    "donat": {
+      "kalori": 350,
+      "protein": 4.9,
+      "karbohidrat": 44.6,
+      "lemak": 17.2
+    },
+    "es_krim": {
+      "kalori": 207,
+      "protein": 3.5,
+      "karbohidrat": 23.6,
+      "lemak": 11.0
+    },
+    "kebab": {
+      "kalori": 224,
+      "protein": 12.8,
+      "karbohidrat": 22.1,
+      "lemak": 9.4
+    },
+    "kentang": {
+      "kalori": 312,
+      "protein": 3.4,
+      "karbohidrat": 36.5,
+      "lemak": 17.0
+    }
+  },
+  "img_size": [
+    300,
+    300
+  ]
+}
